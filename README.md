@@ -1,4 +1,4 @@
-# Hi, I'm Nur Alyssa Hani👋
+# Hi, I'm Alyssa Hani👋
 
 I'm a Computer Science student at UiTM, currently exploring software development and Artificial Intelligence.
 
