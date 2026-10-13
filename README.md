@@ -1,18 +1,31 @@
-# Hi, I'm [Alyssa Hani]
+# Hi, I'm Nur Alyssa Hani👋
 
-[Computer Science student at UiTM interested in Artificial Intelligence and Data Analytics.]
+I'm a Computer Science student at UiTM, currently exploring software development and Artificial Intelligence.
 
-## About me
-- Studying: [Bachelor of Computer Science (Hons.)], UiTM
-- Currently learning: [Special Topics in Computer Science]
-- My FYP area: [Artificial Intelligence & Machine Learning]
+## About Me
 
-## Skills and tools
-[Java, C++, Python, SQL, Excel]
+- 🎓 Pursuing a Bachelor's degree in Computer Science at UiTM.
+- 💻 Learning to build software and solve problems through programming.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌱 Currently improving my programming skills and building hands-on projects.
+
+## Tech Stack
+
+- **Languages:** Java, C++
+- **Web Development:** HTML, CSS, JavaScript, JSP, Servlets
+- **Database:** SQL, phpMyAdmin
+- **Tools:** Git, GitHub, NetBeans
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
 
-## Contact
-- LinkedIn: [linkedin.com/in/alyssa-hani-a7a7a4435]
-- Email: [alyssaawxyz@gmail.com]
+- **MechooRi Compiler** — A compiler project that processes programs written in a custom, multilingual programming language.
+- **BarangBaek** — A student marketplace web application built using Java, JSP, Servlets, and SQL.
+
+## Current Focus
+
+Learning through projects, strengthening my programming fundamentals, and exploring how AI can be used to solve real-world problems.
+
+## Connect With Me
+
+- LinkedIn: [Alyssa Hani](https://my.linkedin.com/in/alyssa-hani-a7a7a4435)
+- Email: [My email](alyssaawxyz@gmail.com)
