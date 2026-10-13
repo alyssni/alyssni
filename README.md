@@ -28,4 +28,4 @@ Learning through projects, strengthening my programming fundamentals, and explor
 ## Connect With Me
 
 - LinkedIn: [Alyssa Hani](https://my.linkedin.com/in/alyssa-hani-a7a7a4435)
-- Email: [My email](alyssaawxyz@gmail.com)
+- Email: [My email](mailto:alyssaawxyz@gmail.com)
