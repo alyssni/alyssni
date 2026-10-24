@@ -1,6 +1,6 @@
 # Hi, I'm Alyssa Hani👋
 
-I'm a Computer Science student at UiTM, currently exploring software development and Artificial Intelligence.
+I'm a Computer Science student majoring in Big Data at UiTM, currently exploring software development and Artificial Intelligence.
 
 ## About Me
 
