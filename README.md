@@ -24,7 +24,3 @@ I'm a Computer Science student at UiTM, currently exploring software development
 ## Current Focus
 
 Learning through projects, strengthening my programming fundamentals, and exploring how AI can be used to solve real-world problems.
-
-## Connect With Me
-
-- LinkedIn: [Alyssa Hani](https://my.linkedin.com/in/alyssa-hani-a7a7a4435)
